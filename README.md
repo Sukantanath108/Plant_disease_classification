@@ -3,7 +3,7 @@
 A deep learning project that classifies **plant leaf diseases** using **PyTorch** and **ResNet** (transfer learning).  
 This project explores how fine-tuning pre-trained models and applying proper augmentation can improve model accuracy.
 
-
+Dataset Link : [Kaggle](https://www.kaggle.com/datasets/arjuntejaswi/plant-village)
 
 ## 📖 Overview
 This model can detect plant diseases from leaf images with higher accuracy.  
